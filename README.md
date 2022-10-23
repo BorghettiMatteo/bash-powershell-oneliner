@@ -2,7 +2,7 @@
 Useful oneliner for bash &amp; Powershell I stumbled across while working
 
 
-##Convert a bunch of `.webp` images to `.png`
+## Convert a bunch of `.webp` images to `.png`
 
 launch this script in the repositories containing the images you want to convert
 
